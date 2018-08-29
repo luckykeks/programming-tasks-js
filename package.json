@@ -1,0 +1,19 @@
+{
+  "name": "programming-tasks",
+  "version": "1.0.0",
+  "description": "programming tasks js",
+  "main": "isPrime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckykeks/programming-tasks-js.git"
+  },
+  "author": "luckykeks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckykeks/programming-tasks-js/issues"
+  },
+  "homepage": "https://github.com/luckykeks/programming-tasks-js#readme"
+}
