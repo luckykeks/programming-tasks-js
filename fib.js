@@ -14,11 +14,11 @@ function fibRec(num) {
 }
 
 function fib(num) {
-    if(num < 0) {
+    if (num < 0) {
         return new Error('Enter value > 0');
     }
     let a = 1, b = 1, c = 0, i = 0;
-    for( i = 3; i <= num; i++) {
+    for (i = 3; i <= num; i++) {
         c = a + b;
         a = b;
         b = c;
