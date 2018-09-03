@@ -1,7 +1,7 @@
 function indexOf(arr, searchElement) {
     let index = -1;
-    for (let i = 0; i < arr.length; i ++) {
-        if(arr[i] === searchElement) {
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] === searchElement) {
             return i;
         }
     }
